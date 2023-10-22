@@ -5,7 +5,7 @@ This project is a Netflix landing page clone created using HTML, CSS, and JavaSc
 # Demo
 
 Live Demo - Explore the live demo of the Netflix landing page clone to experience its design and functionality.
-1) 
+1) https://6534db3e91734841af43f97a--warm-begonia-5e5668.netlify.app/
 
 # Features
 
